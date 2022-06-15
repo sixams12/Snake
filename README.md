@@ -1,6 +1,12 @@
 # Snake
 Snake Created In HTML
 
+This is a demo of snake, you cant die and there is no score counter.
+
+
+
+
+I followed along with this tutorial to make it: https://www.youtube.com/watch?v=xGmXxpIj6vs&t
 
 
 
